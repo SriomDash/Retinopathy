@@ -1,0 +1,16 @@
+#Ignore the .env file 
+.env 
+
+#Ignore the datastes 
+train_images/
+test_images/
+
+#Ignore the venv
+my_env/
+
+
+# Ignore CSV files
+*.csv
+
+#Ignore Chcekpoints 
+.ipynb_checkpoints
