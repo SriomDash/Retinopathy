@@ -14,3 +14,11 @@ my_env/
 
 #Ignore Chcekpoints 
 .ipynb_checkpoints
+
+#Ignored Processed Images 
+PreProcessedImages/
+
+
+
+#Ignore the h5 file 
+*.h5
